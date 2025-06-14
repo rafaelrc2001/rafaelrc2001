@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 👋 ¡Hola! Soy Rafael Ramírez
+# 👋 ¡Hola! Soy Diego Rafael 
 
-Soy estudiante de Ingeniería en Sistemas y entusiasta de la **ciberseguridad**, el **desarrollo de software** y la **automatización en Linux**. Me gusta trabajar en proyectos que resuelvan problemas reales y mejorar continuamente mis habilidades técnicas.
+Soy estudiante de Ingeniería en Sistemas y entusiasta de la **ciberseguridad**, el **desarrollo de software** y la **automatización de procesos**. Me gusta trabajar en proyectos que resuelvan problemas reales y mejorar continuamente mis habilidades técnicas.
 
 ---
 
@@ -19,30 +19,10 @@ Soy estudiante de Ingeniería en Sistemas y entusiasta de la **ciberseguridad**,
 
 ---
 
-## 📚 Actualmente estoy aprendiendo
-
-- 🔐 Técnicas de Pentesting (CTFs, Natas, XXE, SQLi)
-- 📱 Desarrollo de apps móviles en Android Studio
-- 🗺️ Optimización de rutas con mapas y datos geográficos
-- 🔄 Automatización con Makefiles y scripts de shell
-
----
-
 ## 👯 Busco colaborar en...
 
-- Proyectos de seguridad ofensiva o defensiva
-- Herramientas CLI/Linux para automatizar tareas
-- Apps móviles con impacto social (como gestión de residuos 🚛♻️)
-
----
-
-## 💬 Pregúntame sobre...
-
-- Comandos de Linux, scripting, grep, awk, sed...
-- Seguridad web (XSS, CSRF, SSRF, IDOR, etc.)
-- Cómo montar tu entorno de pruebas en Linux
-- Buenas prácticas en Git y gestión de proyectos
-
+- Proyectos de desarrollo de software
+- Herramientas para automatizar tareas
 ---
 
 ## 📫 Cómo contactarme
@@ -53,11 +33,6 @@ Soy estudiante de Ingeniería en Sistemas y entusiasta de la **ciberseguridad**,
 
 ---
 
-## ⚡ Dato curioso
-
-Una vez monté un laboratorio de hacking local usando solo **una máquina virtual, un navegador y muchas ganas de aprender**. 😄
-
----
 
 _Gracias por visitar mi perfil. ¡Siempre estoy abierto a aprender y colaborar!_
 
