@@ -19,8 +19,7 @@ Soy estudiante de Ingeniería en Sistemas y entusiasta de la **ciberseguridad**,
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelrc2001&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelrc2001&theme=tokyonight&hide_border=true&locale=es&short_numbers=true)](https://git.io/streak-stats)
 
 ## 📫 Cómo contactarme
 
