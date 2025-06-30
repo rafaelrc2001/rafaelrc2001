@@ -5,7 +5,7 @@
 Soy estudiante de Ingeniería en Sistemas y entusiasta de la **ciberseguridad**, el **desarrollo de software** y la **automatización de procesos**. Me gusta trabajar en proyectos que resuelvan problemas reales y mejorar continuamente mis habilidades técnicas.
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafaelrc&theme=tokyonight&short_numbers=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafaelrc2001&theme=tokyonight&short_numbers=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 🚀 Tecnologías y herramientas
 
